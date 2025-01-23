@@ -7,11 +7,11 @@
 ![er diyagramı](https://github.com/user-attachments/assets/66c39a59-bfc1-41b0-9a20-9a4094196464)
 # YÖNETİCİ GİRİŞ EKRANI
 ![Ekran görüntüsü 2025-01-23 141125](https://github.com/user-attachments/assets/23c726f7-5d79-45c4-9192-30b4c8d27dce)
-
+Yöneticinin giriş yapmak için kullanıcı Adı ve Şifresini girdiği ekran
 
 # REZERVASYONLAR EKRANI
 ![Ekran görüntüsü 2025-01-23 141155](https://github.com/user-attachments/assets/3570bd82-af5e-4fef-a67b-f6fef1800c42)
-
+Yöneticinin Rezervasyon Kaydetme, Düzenleme, Silme işlemleri yaptığı ekran
 
 
 
